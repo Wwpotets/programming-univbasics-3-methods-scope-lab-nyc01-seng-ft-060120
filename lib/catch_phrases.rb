@@ -20,5 +20,5 @@ def all_phrases
 
 	toadstool
 
-	link	
+	link
 end
